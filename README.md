@@ -1,0 +1,2 @@
+# MIND-ASSIGNMENT-
+MIND Assignment For GIT and MAVEN
